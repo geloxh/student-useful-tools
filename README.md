@@ -118,3 +118,9 @@ Security: Helmet, rate limiting, validation, CORS
 API Routes: RESTful endpoints for all features
 Error Handling: Centralized error middleware
 Configuration: Docker, ESLint, Jest setup
+
+### INSTALLATION
+
+```bash
+npm install express mongoose bcryptjs jsonwebtoken zod helmet cors express-rate-limit dotenv winston
+```
