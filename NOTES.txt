@@ -18,7 +18,7 @@ Security:
 
 ✅ Helmet.js - Security headers
 ✅ Rate limiting - Prevent abuse
-✅ Input validation - Joi/Zod schemas
+✅ Input validation - Zod schemas
 ✅ CORS - Proper configuration
 ✅ SQL injection prevention - Parameterized queries
 ✅ XSS protection - Sanitize inputs
